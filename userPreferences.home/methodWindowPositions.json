@@ -1,0 +1,104 @@
+﻿{
+	"Sources/Classes/IObserver.4dm": {
+		"left": 379,
+		"top": 174,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Classes/Publisher.4dm": {
+		"left": 1070,
+		"top": 140,
+		"width": 1145,
+		"height": 1087
+	},
+	"Trash/Methods/(TryCatch).4dm": {
+		"left": 582,
+		"top": 413,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Classes/IPublisher.4dm": {
+		"left": 736,
+		"top": 379,
+		"width": 778,
+		"height": 488
+	},
+	"Sources/Classes/Interface.4dm": {
+		"left": 741,
+		"top": 402,
+		"width": 778,
+		"height": 634
+	},
+	"Trash/Classes/Interface.4dm": {
+		"left": 741,
+		"top": 402,
+		"width": 778,
+		"height": 634
+	},
+	"Sources/Classes/Subscriber.4dm": {
+		"left": 304,
+		"top": 623,
+		"width": 778,
+		"height": 634
+	},
+	"Trash/Methods/(implementsInterface).4dm": {
+		"left": 603,
+		"top": 701,
+		"width": 1678,
+		"height": 657
+	},
+	"Sources/Classes/AbstractPublisher.4dm": {
+		"left": 1326,
+		"top": 302,
+		"width": 1145,
+		"height": 1087
+	},
+	"Sources/Classes/AbstractSubscriber.4dm": {
+		"left": 304,
+		"top": 623,
+		"width": 778,
+		"height": 634
+	},
+	"Sources/Classes/AlertingSubscriber.4dm": {
+		"left": 345,
+		"top": 192,
+		"width": 906,
+		"height": 822
+	},
+	"Sources/Methods/findSubscriber.4dm": {
+		"left": 1326,
+		"top": 302,
+		"width": 1145,
+		"height": 1087
+	},
+	"Sources/Methods/tryCatch.4dm": {
+		"left": 1441,
+		"top": 608,
+		"width": 906,
+		"height": 982
+	},
+	"Sources/Classes/Exception.4dm": {
+		"left": 345,
+		"top": 192,
+		"width": 906,
+		"height": 822
+	},
+	"Sources/Methods/test_publisher.4dm": {
+		"left": 522,
+		"top": 301,
+		"width": 778,
+		"height": 892
+	},
+	"Sources/Methods/test_tryCatch.4dm": {
+		"left": 1211,
+		"top": 389,
+		"width": 906,
+		"height": 822
+	},
+	"Sources/Methods/errorGeneratingMethod.4dm": {
+		"left": 1211,
+		"top": 389,
+		"width": 906,
+		"height": 822
+	}
+}

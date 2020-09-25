@@ -1,0 +1,22 @@
+﻿{
+	"methods": {
+		"errorGeneratingMethod": {
+			"timeStamp": "2020-09-25T11:29:46.600Z"
+		},
+		"findSubscriber": {
+			"timeStamp": "2020-09-25T11:08:15.996Z"
+		},
+		"test_publisher": {
+			"timeStamp": "2020-09-25T11:14:09.812Z"
+		},
+		"test_tryCatch": {
+			"timeStamp": "2020-09-25T11:31:40.227Z"
+		},
+		"tryCatch": {
+			"timeStamp": "2020-09-25T04:43:19.036Z"
+		},
+		"(implementsInterface)": {
+			"timeStamp": "2020-09-24T04:23:46.552Z"
+		}
+	}
+}

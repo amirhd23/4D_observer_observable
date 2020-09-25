@@ -1,0 +1,40 @@
+﻿{
+	"editors": [
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483633,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "tryCatch"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483630,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "test_tryCatch"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483632,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "Exception",
+				"methodPath": "/SOURCES/Classes/Exception.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483629,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "errorGeneratingMethod"
+			}
+		}
+	]
+}

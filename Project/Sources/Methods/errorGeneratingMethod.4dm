@@ -1,0 +1,2 @@
+//%attributes = {}
+$object.name:="test"
