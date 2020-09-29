@@ -72,22 +72,22 @@
 		"stamp": "2020-09-25T11:03:57.124Z"
 	},
 	"Sources/Classes/AbstractSubscriber.4dm": {
-		"startSelection": 21,
-		"endSelection": 21,
-		"firstSelectedLine": 2,
-		"lastSelectedLine": 2,
+		"startSelection": 17,
+		"endSelection": 17,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-09-25T10:36:46.340Z"
+		"stamp": "2020-09-29T01:35:04.061Z"
 	},
 	"Sources/Classes/AlertingSubscriber.4dm": {
-		"startSelection": 7,
-		"endSelection": 7,
-		"firstSelectedLine": 11,
-		"lastSelectedLine": 11,
+		"startSelection": 76,
+		"endSelection": 76,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-09-25T11:01:10.634Z"
+		"stamp": "2020-09-29T02:03:07.380Z"
 	},
 	"Sources/Methods/findSubscriber.4dm": {
 		"startSelection": 45,
@@ -97,15 +97,6 @@
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2020-09-25T11:08:15.996Z"
-	},
-	"Sources/Methods/tryCatch.4dm": {
-		"startSelection": 0,
-		"endSelection": 0,
-		"firstSelectedLine": 10,
-		"lastSelectedLine": 10,
-		"folding": [],
-		"bookmarks": [],
-		"stamp": "2020-09-25T04:43:19.036Z"
 	},
 	"Sources/Classes/Exception.4dm": {
 		"startSelection": 16,
@@ -125,7 +116,16 @@
 		"bookmarks": [],
 		"stamp": "2020-09-25T11:14:09.812Z"
 	},
-	"Sources/Methods/test_tryCatch.4dm": {
+	"Sources/Methods/randomGenerateDocument.4dm": {
+		"startSelection": 4,
+		"endSelection": 4,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-09-29T01:43:51.095Z"
+	},
+	"Trash/Methods/(test_tryCatch).4dm": {
 		"startSelection": 46,
 		"endSelection": 46,
 		"firstSelectedLine": 1,
@@ -134,7 +134,7 @@
 		"bookmarks": [],
 		"stamp": "2020-09-25T11:31:40.227Z"
 	},
-	"Sources/Methods/errorGeneratingMethod.4dm": {
+	"Trash/Methods/(errorGeneratingMethod).4dm": {
 		"startSelection": 20,
 		"endSelection": 20,
 		"firstSelectedLine": 0,
@@ -142,5 +142,32 @@
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2020-09-25T11:29:46.600Z"
+	},
+	"Trash/Methods/(tryCatch).4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-09-25T04:43:19.036Z"
+	},
+	"Sources/Forms/PublisherDemo/method.4dm": {
+		"startSelection": 26,
+		"endSelection": 26,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-09-29T02:26:21.639Z"
+	},
+	"Sources/Classes/QueryingSubscriber.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-09-29T02:19:49.176Z"
 	}
 }

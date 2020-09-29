@@ -2,4 +2,31 @@
 <!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
 <base name="" uuid="CBE2C32CAE75684BA6C455DF35517C2B" collation_locale="en-ca">
 	<schema name="DEFAULT_SCHEMA"/>
+	<table name="Documents" uuid="F0251360A8A4414484C97E2477B4258D" id="1">
+		<field name="ID" uuid="F00E0CC3B7B726478E163D4802DE3BF6" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="type" uuid="A944A6CBF970D64FA86C07D3497B2C28" type="10" limiting_length="30" never_null="true" id="2">
+			<field_extra>
+				<comment format="rtf">{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil Segoe UI;}}{\colortbl ;\red0\green0\blue0;}{\*\generator Riched20 10.0.19041}\viewkind4\uc1 \pard\tx720\cf1\protect\f0\fs17 Type is Invoice, or Payment, or Wire\f1}				</comment>
+				<comment format="text">Type is Invoice, or Payment, or Wire				</comment>
+			</field_extra>
+		</field>
+		<primary_key field_name="ID" field_uuid="F00E0CC3B7B726478E163D4802DE3BF6"/>
+		<table_extra>
+			<editor_table_info displayable_fields_count="6">
+				<color red="255" green="255" blue="255" alpha="0"/>
+				<coordinates left="40" top="40" width="120" height="167.33203125"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<index kind="regular" unique_keys="true" uuid="93D38073FDB26F41A519A94A3B9205D6" type="7">
+		<field_ref uuid="F00E0CC3B7B726478E163D4802DE3BF6" name="ID">
+			<table_ref uuid="F0251360A8A4414484C97E2477B4258D" name="Documents"/>
+		</field_ref>
+	</index>
+	<index kind="regular" uuid="EA49629F527663438C123AEB4661CEC6" type="3">
+		<field_ref uuid="A944A6CBF970D64FA86C07D3497B2C28" name="type">
+			<table_ref uuid="F0251360A8A4414484C97E2477B4258D" name="Documents"/>
+		</field_ref>
+	</index>
+	<base_extra __stringCompHash="icu:63.1.0" __keywordBuildingHash="icu:63.1.0"/>
 </base>

@@ -54,14 +54,14 @@
 		"height": 1087
 	},
 	"Sources/Classes/AbstractSubscriber.4dm": {
-		"left": 304,
-		"top": 623,
+		"left": 361,
+		"top": 314,
 		"width": 778,
 		"height": 634
 	},
 	"Sources/Classes/AlertingSubscriber.4dm": {
-		"left": 345,
-		"top": 192,
+		"left": 262,
+		"top": 221,
 		"width": 906,
 		"height": 822
 	},
@@ -70,12 +70,6 @@
 		"top": 302,
 		"width": 1145,
 		"height": 1087
-	},
-	"Sources/Methods/tryCatch.4dm": {
-		"left": 1441,
-		"top": 608,
-		"width": 906,
-		"height": 982
 	},
 	"Sources/Classes/Exception.4dm": {
 		"left": 345,
@@ -87,18 +81,42 @@
 		"left": 522,
 		"top": 301,
 		"width": 778,
-		"height": 892
+		"height": 845
 	},
-	"Sources/Methods/test_tryCatch.4dm": {
+	"Sources/Methods/randomGenerateDocument.4dm": {
+		"left": 474,
+		"top": 159,
+		"width": 778,
+		"height": 825
+	},
+	"Trash/Methods/(test_tryCatch).4dm": {
+		"left": 382,
+		"top": 109,
+		"width": 906,
+		"height": 822
+	},
+	"Trash/Methods/(errorGeneratingMethod).4dm": {
 		"left": 1211,
 		"top": 389,
 		"width": 906,
 		"height": 822
 	},
-	"Sources/Methods/errorGeneratingMethod.4dm": {
-		"left": 1211,
-		"top": 389,
+	"Trash/Methods/(tryCatch).4dm": {
+		"left": 1441,
+		"top": 608,
 		"width": 906,
-		"height": 822
+		"height": 982
+	},
+	"Sources/Forms/PublisherDemo/method.4dm": {
+		"left": 429,
+		"top": 111,
+		"width": 906,
+		"height": 823
+	},
+	"Sources/Classes/QueryingSubscriber.4dm": {
+		"left": 708,
+		"top": 353,
+		"width": 778,
+		"height": 825
 	}
 }
