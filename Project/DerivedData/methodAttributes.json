@@ -1,19 +1,25 @@
 ﻿{
 	"methods": {
-		"findSubscriber": {
-			"timeStamp": "2020-09-25T11:08:15.996Z"
+		"clearDocumentsData": {
+			"timeStamp": "2020-10-06T04:58:38.567Z"
+		},
+		"findObserver": {
+			"timeStamp": "2020-10-06T03:47:28.188Z"
 		},
 		"randomGenerateDocument": {
 			"timeStamp": "2020-09-29T01:43:51.095Z"
 		},
-		"test_publisher": {
-			"timeStamp": "2020-09-25T11:14:09.812Z"
+		"test_observer": {
+			"timeStamp": "2020-10-06T05:28:48.673Z"
 		},
 		"(errorGeneratingMethod)": {
 			"timeStamp": "2020-09-25T11:29:46.600Z"
 		},
 		"(implementsInterface)": {
 			"timeStamp": "2020-09-24T04:23:46.552Z"
+		},
+		"(test_form)": {
+			"timeStamp": "2020-10-06T04:23:42.996Z"
 		},
 		"(test_tryCatch)": {
 			"timeStamp": "2020-09-25T11:31:40.227Z"

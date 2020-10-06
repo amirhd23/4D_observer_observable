@@ -7,9 +7,9 @@
 	},
 	"Sources/Classes/Publisher.4dm": {
 		"left": 1070,
-		"top": 140,
+		"top": 109,
 		"width": 1145,
-		"height": 1087
+		"height": 1118
 	},
 	"Trash/Methods/(TryCatch).4dm": {
 		"left": 582,
@@ -54,22 +54,16 @@
 		"height": 1087
 	},
 	"Sources/Classes/AbstractSubscriber.4dm": {
-		"left": 361,
-		"top": 314,
-		"width": 778,
-		"height": 634
+		"left": 856,
+		"top": 640,
+		"width": 1063,
+		"height": 642
 	},
 	"Sources/Classes/AlertingSubscriber.4dm": {
-		"left": 262,
-		"top": 221,
-		"width": 906,
-		"height": 822
-	},
-	"Sources/Methods/findSubscriber.4dm": {
-		"left": 1326,
-		"top": 302,
-		"width": 1145,
-		"height": 1087
+		"left": 0,
+		"top": 109,
+		"width": 2544,
+		"height": 1283
 	},
 	"Sources/Classes/Exception.4dm": {
 		"left": 345,
@@ -77,17 +71,11 @@
 		"width": 906,
 		"height": 822
 	},
-	"Sources/Methods/test_publisher.4dm": {
-		"left": 522,
-		"top": 301,
-		"width": 778,
-		"height": 845
-	},
 	"Sources/Methods/randomGenerateDocument.4dm": {
 		"left": 474,
 		"top": 159,
-		"width": 778,
-		"height": 825
+		"width": 1270,
+		"height": 1107
 	},
 	"Trash/Methods/(test_tryCatch).4dm": {
 		"left": 382,
@@ -114,9 +102,93 @@
 		"height": 823
 	},
 	"Sources/Classes/QueryingSubscriber.4dm": {
-		"left": 708,
-		"top": 353,
-		"width": 778,
-		"height": 825
+		"left": 387,
+		"top": 247,
+		"width": 1510,
+		"height": 884
+	},
+	"Sources/Classes/AbstractObserver.4dm": {
+		"left": 856,
+		"top": 640,
+		"width": 1164,
+		"height": 642
+	},
+	"Sources/Classes/AlertingObserver.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Classes/Observable.4dm": {
+		"left": -511,
+		"top": 503,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/test_observer.4dm": {
+		"left": 1456,
+		"top": 373,
+		"width": 1040,
+		"height": 845
+	},
+	"Sources/Methods/findObserver.4dm": {
+		"left": 1326,
+		"top": 302,
+		"width": 1145,
+		"height": 1087
+	},
+	"Sources/Forms/ObserverDemo2/method.4dm": {
+		"left": 721,
+		"top": 260,
+		"width": 1691,
+		"height": 1287
+	},
+	"Sources/Forms/ObserverDemo/method.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 2544,
+		"height": 1283
+	},
+	"Trash/Methods/(test_form).4dm": {
+		"left": 659,
+		"top": 366,
+		"width": 1510,
+		"height": 884
+	},
+	"Sources/Classes/QueryingObserver.4dm": {
+		"left": -473,
+		"top": 459,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/clearDocumentsData.4dm": {
+		"left": -67,
+		"top": 737,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Forms/ObservableDemo/method.4dm": {
+		"left": 455,
+		"top": 503,
+		"width": 1524,
+		"height": 1283
+	},
+	"Sources/Classes/Unsubscriber.4dm": {
+		"left": 277,
+		"top": 188,
+		"width": 1691,
+		"height": 1400
+	},
+	"Sources/TableForms/1/ObserverForm/ObjectMethods/Button.4dm": {
+		"left": -238,
+		"top": 1027,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/TableForms/1/ObserverForm/method.4dm": {
+		"left": -300,
+		"top": 1013,
+		"width": 2544,
+		"height": 1283
 	}
 }

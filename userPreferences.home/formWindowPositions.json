@@ -1,8 +1,32 @@
 ﻿{
-	"Sources/Forms/PublisherDemo/form.4DForm": {
-		"left": 663,
-		"top": 178,
-		"width": 780,
-		"height": 402
+	"Sources/Forms/ObserverDemo2/form.4DForm": {
+		"left": 1220,
+		"top": 502,
+		"width": 801,
+		"height": 823
+	},
+	"Sources/TableForms/1/Statistics/form.4DForm": {
+		"left": 1220,
+		"top": 502,
+		"width": 801,
+		"height": 823
+	},
+	"Sources/Forms/ObserverDemo/form.4DForm": {
+		"left": 998,
+		"top": 479,
+		"width": 801,
+		"height": 823
+	},
+	"Sources/TableForms/1/ObserverForm/form.4DForm": {
+		"left": 1309,
+		"top": 599,
+		"width": 801,
+		"height": 622
+	},
+	"Sources/Forms/ObservableDemo/form.4DForm": {
+		"left": 532,
+		"top": 391,
+		"width": 801,
+		"height": 823
 	}
 }
