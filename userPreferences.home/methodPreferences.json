@@ -243,10 +243,10 @@
 		"stamp": "2020-10-06T04:58:38.567Z"
 	},
 	"Sources/Forms/ObservableDemo/method.4dm": {
-		"startSelection": 36,
-		"endSelection": 36,
-		"firstSelectedLine": 8,
-		"lastSelectedLine": 8,
+		"startSelection": 14,
+		"endSelection": 14,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2020-10-06T05:32:23.405Z"
@@ -277,5 +277,14 @@
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2020-10-06T05:43:45.037Z"
+	},
+	"Sources/Methods/test.4dm": {
+		"startSelection": 15,
+		"endSelection": 15,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-10-07T02:24:24.481Z"
 	}
 }

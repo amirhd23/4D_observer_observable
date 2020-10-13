@@ -162,16 +162,16 @@
 		"height": 1283
 	},
 	"Sources/Methods/clearDocumentsData.4dm": {
-		"left": -67,
-		"top": 737,
+		"left": -20,
+		"top": 612,
 		"width": 2544,
 		"height": 1283
 	},
 	"Sources/Forms/ObservableDemo/method.4dm": {
-		"left": 455,
-		"top": 503,
+		"left": -56,
+		"top": 371,
 		"width": 1524,
-		"height": 1283
+		"height": 1312
 	},
 	"Sources/Classes/Unsubscriber.4dm": {
 		"left": 277,
@@ -188,6 +188,12 @@
 	"Sources/TableForms/1/ObserverForm/method.4dm": {
 		"left": -300,
 		"top": 1013,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/test.4dm": {
+		"left": 2,
+		"top": 196,
 		"width": 2544,
 		"height": 1283
 	}
